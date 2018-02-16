@@ -7,10 +7,10 @@ Put these three project files in your ruby on rails project root folder:
 3. [run.sh](https://github.com/Klockner/ruby-docker-starter/blob/master/run.sh)
 
 Now, run this command to make run.sh executable:
-```
+```ssh
 $ chmod +x run.sh
 ```
 You can launch it now using:
-```
+```ssh
 $ docker-compose up
 ```
